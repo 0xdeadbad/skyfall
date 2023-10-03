@@ -1,5 +1,5 @@
 # skyfall
 
 ## Dependencies:
-Cmake: 2.25 >=
-SDL2
+- Cmake: >= 2.25
+- SDL2
