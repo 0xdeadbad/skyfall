@@ -1,0 +1,6 @@
+#ifndef SKYFALL_APPLICATION_HPP
+#define SKYFALL_APPLICATION_HPP
+
+void say_hello();
+
+#endif // !SKYFALL_APPLICATION_HPP
