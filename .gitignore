@@ -1,6 +1,10 @@
 ## clangd
 .cache
 
+## project
+libskyfall.*
+Build
+
 ## cmake
 CMakeLists.txt.user
 CMakeCache.txt
